@@ -10,6 +10,7 @@ RUN buildDeps="build-essential \
     libpq-dev \
     libseccomp-dev \
     ruby-dev \
+    libssl-dev \
     openjdk-8-jdk-headless \
     ant" \
     && mkdir -p /usr/share/man/man1 \
