@@ -13,7 +13,7 @@ RUN buildDeps="build-essential \
     libssl-dev \
     libhunspell-dev \
     pkg-config \
-    openjdk-8-jdk-headless \
+    openjdk-8-jdk \
     ant" \
     && mkdir -p /usr/share/man/man1 \
     && apt-get update \
