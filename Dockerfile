@@ -11,6 +11,7 @@ RUN buildDeps="build-essential \
     libseccomp-dev \
     ruby-dev \
     libssl-dev \
+    hunspell \
     openjdk-8-jdk-headless \
     ant" \
     && mkdir -p /usr/share/man/man1 \
