@@ -12,6 +12,7 @@ RUN buildDeps="build-essential \
     ruby-dev \
     libssl-dev \
     libhunspell-dev \
+    pkg-config \
     openjdk-8-jdk-headless \
     ant" \
     && mkdir -p /usr/share/man/man1 \
