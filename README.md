@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This image is outdated and superseded by NWNX: https://github.com/nwnxee/unified/pkgs/container/builder
+
 # docker-nwnxee-builder
 
 Builder image for NWNX: EE based on the [Dockerfile.builder](https://github.com/nwnxee/unified/blob/master/Dockerfile.builder) in the nwnxee repository.
